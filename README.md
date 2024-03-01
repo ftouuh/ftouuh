@@ -4,8 +4,7 @@
 
 🚀 Here are some of my skills and technologies:
 
-- Frontend: ![HTML](https://skillicons.dev/icons?i=html) ![CSS](https://skillicons.dev/icons?i=css) ![JavaScript](https://skillicons.dev/icons?i=js) ![React](https://skillicons.dev/icons?i=react)
-- Backend: ![MySQL](https://skillicons.dev/icons?i=mysql) ![MongoDB](https://skillicons.dev/icons?i=mongodb) ![Java](https://skillicons.dev/icons?i=java) ![Spring](https://skillicons.dev/icons?i=spring)
+![HTML](https://skillicons.dev/icons?i=html) ![CSS](https://skillicons.dev/icons?i=css) ![JavaScript](https://skillicons.dev/icons?i=js) ![React](https://skillicons.dev/icons?i=react)![MySQL](https://skillicons.dev/icons?i=mysql) ![MongoDB](https://skillicons.dev/icons?i=mongodb) ![Java](https://skillicons.dev/icons?i=java) ![Spring](https://skillicons.dev/icons?i=spring)
 
 💡 I love working on challenging projects and solving complex problems. Whether it's crafting elegant UIs or optimizing backend performance, I'm always up for the challenge.
 
