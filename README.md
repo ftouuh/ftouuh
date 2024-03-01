@@ -1,16 +1,16 @@
-### Hi there 👋
+# 👨‍💻 Zayd Ftouh
 
-<!--
-**ftouuh/ftouuh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👋 Hey there! I'm Zayd Ftouh, a passionate developer with a knack for building awesome web applications.
 
-Here are some ideas to get you started:
+🚀 Here are some of my skills and technologies:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Frontend: ![HTML](https://skillicons.dev/icons?i=html) ![CSS](https://skillicons.dev/icons?i=css) ![JavaScript](https://skillicons.dev/icons?i=js) ![React](https://skillicons.dev/icons?i=react)
+- Backend: ![MySQL](https://skillicons.dev/icons?i=mysql) ![MongoDB](https://skillicons.dev/icons?i=mongodb) ![Java](https://skillicons.dev/icons?i=java) ![Spring](https://skillicons.dev/icons?i=spring)
+
+💡 I love working on challenging projects and solving complex problems. Whether it's crafting elegant UIs or optimizing backend performance, I'm always up for the challenge.
+
+🌱 Currently, I'm honing my skills in React and exploring new technologies to broaden my knowledge and expertise.
+
+🤝 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/zayd-ftouh/) to discuss potential collaborations or just to say hello! I'm always open to meeting fellow developers and exchanging ideas.
+
+Let's build amazing things together! 💻✨
